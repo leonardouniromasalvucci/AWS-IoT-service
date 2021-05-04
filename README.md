@@ -22,6 +22,3 @@ The purpose of this thesis project is to design, build and test a cloud architec
 
 ### Demo
 [![Watch the video](images/8.png)](https://youtu.be/oPi94TkbZRQ)
-
-
-### Reference
