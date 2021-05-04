@@ -17,7 +17,7 @@ The purpose of this thesis project is to design, build and test a cloud architec
 
 
 ### Architecture
-<img src="images/ezgif.com-gif-maker.gif" width="48">
+<img src="images/ezgif.com-gif-maker.gif" width="148">
 
 
 ### Demo
