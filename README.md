@@ -1,3 +1,9 @@
-# Cloud-based service for remote monitoring of IoT devices
+# Design and implementation of a cloud-based service for remote monitoring of IoT devices
 
-Design and development of a cloud-based service for remote monitoring of Iot devices
+The entire project was developed using all open-source technologies to reduce costs and increase the portability of the service to other cloud platforms.
+
+### Overview
+
+### Demo
+
+### Reference
