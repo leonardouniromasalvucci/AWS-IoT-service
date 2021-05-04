@@ -10,6 +10,7 @@ rest-ws:
   restart: always
   ports:
    - 80:80
+  mem_limit : 600m
   command: python3 rest-ws.py
 
 grafana-ws:
@@ -17,12 +18,14 @@ grafana-ws:
   restart: always
   ports:
    - 8081:8081
+  mem_limit : 600m
   command: python3 grafana-ws.py
 
 cadvisor:
   image: google/cadvisor:latest
   ports:
    - 8080:8080
+  mem_limit : 600m
   volumes:
     - /:/rootfs:ro
     - /var/run:/var/run:rw
