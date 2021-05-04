@@ -5,5 +5,5 @@ The entire project was developed using all open-source technologies to reduce co
 ### Overview
 
 ### Demo
-[![Watch the video]](https://youtu.be/oPi94TkbZRQ)
+[![Watch the video]()](https://youtu.be/oPi94TkbZRQ)
 ### Reference
