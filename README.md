@@ -15,7 +15,7 @@ Our project aims to help a common user in viewing and analyzing data related to 
 * [Grafana](https://grafana.com/)
 
 ### Architecture
-![](name-of-giphy.gif)
+![](ezgif.com-gif-maker.gif)
 /*<img src="img/1.PNG" data-canonical-src="img/1.PNG"/>*/
 
 ### Demo
