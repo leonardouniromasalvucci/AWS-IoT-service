@@ -6,7 +6,7 @@ The entire project was developed using all open-source technologies to reduce co
 The purpose of this thesis project is to design, build and test a cloud architecture capable of providing a reliable, available, performing and resilient service, by leveraging scalability and flexibility without the limitations imposed by the physical constraints of local servers, take advantage of the reliability of multiple data centers with numerous redundancies, customization by configuring servers according to preferences and a balancing service reactive load able to adapt quickly to changes in demand.
 
 
-### Technologies involved in the project
+### Technologies involved
 * [Amazon Web Services](https://aws.amazon.com/it/) 
 * [Python](https://www.python.org/) 
 * [Prometheus](https://prometheus.io/) 
